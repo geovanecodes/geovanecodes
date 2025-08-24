@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Éric!
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2/5)  
 🌱 Atualmente estudando **Java, JavaScript, HTML e CSS**  
 🚀 Apaixonado por tecnologia, código limpo e aprender coisas novas.  
 
