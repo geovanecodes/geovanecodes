@@ -23,7 +23,7 @@
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/geovane-codes/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/geovanecodes)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)]([https://github.com/geovanecodes](https://github.com/geovanecodes/geovanecodes-portfolio.git))  
 
 ---
 ⭐️ *“Sempre aprendendo, sempre evoluindo!”*
